@@ -1,11 +1,12 @@
-ï»¿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Marine : Unit
+public class Firebat : Unit
 {
     public override void Train()
     {
-        Debug.Log("ë§ˆë¦° í›ˆë ¨");
+        Debug.Log("ÆÄÀÌ¾î¹î ÈÆ·Ã");
     }
+
 }

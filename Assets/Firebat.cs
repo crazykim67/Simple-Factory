@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,7 +6,7 @@ public class Firebat : Unit
 {
     public override void Train()
     {
-        Debug.Log("ÆÄÀÌ¾î¹î ÈÆ·Ã");
+        Debug.Log("íŒŒì´ì–´ë±ƒ í›ˆë ¨");
     }
 
 }
